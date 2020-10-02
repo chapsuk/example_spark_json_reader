@@ -25,7 +25,7 @@ object JsonReader {
       new SparkConf()
         .setAppName("JsonReader")
         .setMaster("local")
-    );
+    )
 
     implicit val Formats: DefaultFormats.type = DefaultFormats
 

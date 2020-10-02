@@ -4,3 +4,6 @@ project/project/
 project/target/
 .idea
 winemag.json
+crime.csv
+offense_codes.csv
+output/
