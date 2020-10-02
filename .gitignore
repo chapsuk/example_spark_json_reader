@@ -1,0 +1,6 @@
+target/
+project/boot/
+project/project/
+project/target/
+.idea
+winemag.json
